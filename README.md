@@ -19,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-See [example/README.rb](example/README.rb).
+See [example/README.md](example/README.md).
 
 ## Development
 
@@ -29,4 +29,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ipresolver.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mlibrary/ipresolver.
